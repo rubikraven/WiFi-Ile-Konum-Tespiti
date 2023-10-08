@@ -31,10 +31,9 @@ iface = "wlan1" değişkenini kendi sistemlerinizdeki kablosuz ağ adaptörü ad
 
 Kodu çalıştırın: sudo python dosya_adı.py (dosya_adı.py yerine kullandığınız dosya adını yazın)
 
-Referanslar
-Trilaterasyonla Konum Tespiti
+- [Trilaterasyonla Konum Tespiti](https://dergipark.org.tr/en/download/article-file/1133653)
+- [İlgili Instagram Gönderisi](https://www.instagram.com/p/Cxgt-q4Ii-Z/?hl=tr)
 
-İlgili Instagram Gönderisi
 Lisans
 Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla detay için LICENSE dosyasına göz atabilirsiniz.
 
