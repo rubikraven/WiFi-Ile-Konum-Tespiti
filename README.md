@@ -33,9 +33,8 @@ sudo python dosya_adı.py
 
 Trilaterasyonla Konum Tespiti
 Bu proje, Wi-Fi sinyal gücü kullanarak yakındaki cihazların konumunu tahmin eder. Trilaterasyon yöntemiyle sinyal güçleri analiz edilerek cihazların muhtemel konumları belirlenir.
-
-İlgili Instagram Gönderisi
-Trilaterasyonla Konum Tespiti
-İlgili Instagram Gönderisi
+ 
+Trilaterasyonla Konum Tespiti https://dergipark.org.tr/en/download/article-file/1133653
+İlgili Instagram Gönderisi https://www.instagram.com/p/C6MvXi9IpeU/?hl=tr
 Lisans
 Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla detay için LICENSE dosyasına göz atabilirsiniz.
