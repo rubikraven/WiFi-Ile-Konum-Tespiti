@@ -18,6 +18,6 @@ your_wifi_ssid değişkenini kendi BSSID'nizle değiştirin. apartment_x ve apar
 
 Kodu çalıştırın: sudo python dosya_adı.py (dosya_adı.py yerine kullandığınız dosya adını yazın)
 
-Trilaterasyonla Konum Tespiti
-İlgili Instagram Gönderisi
+Trilaterasyonla Konum Tespiti: https://dergipark.org.tr/en/download/article-file/1133653
+İlgili Instagram Gönderisi: https://www.instagram.com/p/C6MvXi9IpeU/?hl=tr 
 Lisans Bu proje MIT lisansı altında yayınlanmıştır. Daha fazla detay için LICENSE dosyas
